@@ -1,0 +1,13 @@
+image_path,label
+images/covid1.png,covid
+images/covid2.png,covid
+images/covid3.png,covid
+images/normal1.png,normal
+images/normal2.png,normal
+images/normal3.png,normal
+images/pneumonia1.png,pneumonia
+images/pneumonia2.png,pneumonia
+images/pneumonia3.png,pneumonia
+images/covid4.png,covid
+images/normal4.png,normal
+images/pneumonia4.png,pneumonia
